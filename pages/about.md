@@ -34,7 +34,3 @@ The section of the canal between the Feeder Junction at Welland and Port Colbor
 
 The maps in this collection are taken from a book of survey of lands appropriated to the use of the Welland Canal Company, 1826-1837.  They are part of the Welland Canal/St. Lawrence Seaway Authority fonds, RG 422, Brock University Archives.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
