@@ -13,9 +13,6 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-
-The maps in this collection are taken from a book of survey of lands appropriated to the use of the 
- Welland Canal Company, 1826-1837.
  
 The first Welland Canal opened in 1829.  William Hamilton Merritt is well known for being the driving force behind the development of the canal.  Merritt owned and operated mills on Twelve Mile Creek and first proposed a canal in 1818.  The need for water to power these mills is likely what gave Merritt the idea of constructing a feeder canal to connect the Welland River and Twelve Mile Creek.  This plan quickly evolved into a much larger project to connect Lake Ontario and Lake Erie.   This would provide a link in the St. Lawrence Seaway transportation system that would allow goods from western Upper Canada to be shipped to Montreal and Great Britain while bypassing the Niagara Falls portage.  The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the deep cut to the Welland River collapsed.   
 
