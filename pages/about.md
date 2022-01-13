@@ -16,6 +16,8 @@ credits: true
  
 The first Welland Canal opened in 1829.  William Hamilton Merritt is well known for being the driving force behind the development of the canal.  Merritt owned and operated mills on Twelve Mile Creek and first proposed a canal in 1818.  The need for water to power these mills is likely what gave Merritt the idea of constructing a feeder canal to connect the Welland River and Twelve Mile Creek.  This plan quickly evolved into a much larger project to connect Lake Ontario and Lake Erie.   This would provide a link in the St. Lawrence Seaway transportation system that would allow goods from western Upper Canada to be shipped to Montreal and Great Britain while bypassing the Niagara Falls portage.  
 
+{% include feature/image.html objectid="item61" width="50" %}
+
 The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the deep cut to the Welland River collapsed.   
 
 Despite the setback, construction continued and two schooners, one British and one American, passed through the new canal from Lake Ontario to Buffalo on November 30, 1829.   There was much work still to be done to complete the canal which was not finished until 1834.  The initial canal ran south from Port Dalhousie along Twelve Mile Creek to St. Catharines and the Welland River.  An extension was built in 1833 to Gravelly Bay, now Port Colborne.  
