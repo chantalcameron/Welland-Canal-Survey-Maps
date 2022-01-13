@@ -25,6 +25,8 @@ As ships became larger and the wooden locks deteriorated, the need for a new can
 
 The section of the canal between the Feeder Junction at Welland and Port Colborne was also enlarged and opened for navigation in 1850.   During this reconstruction, the Feedeer canal route was the only one available for shipping.   As the canal became increasingly congested with larger ships, a Commission was appointed in 1870 to recommend improvements.  A third canal was completed in 1887, but the second canal remained in use for power purposes until about 1915.  Work on a fourth canal began around this time but was not completed until 1932.  The fourth canal is known as the Welland Ship Canal and remains in operation.
 
+The maps in this collection are taken from a book of survey of lands appropriated to the use of the Welland Canal Company, 1826-1837.  They are part of the Welland Canal/St. Lawrence Seaway Authority fonds, RG 422, Brock University Archives.
+
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
