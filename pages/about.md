@@ -22,7 +22,7 @@ The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, 
 
 {% include feature/image.html objectid="item33" width="50" %}
 
-Despite the setback, construction continued and two schooners, one British and one American, passed through the new canal from Lake Ontario to Buffalo on November 30, 1829.   There was much work still to be done to complete the canal which was not finished until 1834.  The initial canal ran south from Port Dalhousie along Twelve Mile Creek to St. Catharines and the Welland River.  An extension was built in 1833 to Gravelly Bay, now Port Colborne.  
+Despite the setback, construction continued and two schooners, one British and one American, passed through the new canal from Lake Ontario to Buffalo on November 30, 1829.   There was much work still to be done to complete the canal, which was not finished until 1834.  The initial canal ran south from Port Dalhousie along Twelve Mile Creek to St. Catharines and the Welland River.  An extension was built in 1833 to Gravelly Bay, now Port Colborne.  
 
 {% include feature/image.html objectid="item20" width="50" %}
  
