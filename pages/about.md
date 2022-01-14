@@ -12,9 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## The Welland Canal
  
-The first Welland Canal opened in 1829.  William Hamilton Merritt is well known for being the driving force behind the development of the canal.  Merritt owned and operated mills on Twelve Mile Creek and first proposed a canal in 1818.  The need for water to power these mills is likely what gave Merritt the idea of constructing a feeder canal to connect the Welland River and Twelve Mile Creek.  This plan quickly evolved into a much larger project to connect Lake Ontario and Lake Erie.   This would provide a link in the St. Lawrence Seaway transportation system that would allow goods from western Upper Canada to be shipped to Montreal and Great Britain while bypassing the Niagara Falls portage.  
+The first Welland Canal opened in 1829.  William Hamilton Merritt is well known for being the driving force behind its development.  Merritt owned and operated mills on Twelve Mile Creek and first proposed a canal in 1818.  The need for water to power these mills is likely what gave Merritt the idea of constructing a feeder canal to connect the Welland River and Twelve Mile Creek.  This plan quickly evolved into a much larger project to connect Lake Ontario and Lake Erie.   This would provide a link in the St. Lawrence Seaway transportation system that would allow goods from western Upper Canada to be shipped to Montreal and Great Britain while bypassing the Niagara Falls portage.  
 
 {% include feature/image.html objectid="item61" width="50" %}
 
