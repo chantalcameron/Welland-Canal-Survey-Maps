@@ -18,7 +18,7 @@ The first Welland Canal opened in 1829.  William Hamilton Merritt is well known 
 
 {% include feature/image.html objectid="item61" width="50" %}
 
-The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the deep cut to the Welland River collapsed.   
+The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the deep cut to the Welland River collapsed.  At this point it became clear that it would not be possible to use the Welland River for water for the canal, and a plan was devised to turn the secondary canal to the Grand River into a Feeder canal for the main branch.  This led to the development of several communities along the Feeder Canal including Dunnville, Marshville (Milton), Welland (Merrittville), and Junction, near where the Feeder Canal joined the main canal.  
 
 {% include feature/image.html objectid="item33" width="50" %}
 
