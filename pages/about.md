@@ -18,11 +18,15 @@ The first Welland Canal opened in 1829.  William Hamilton Merritt is well known 
 
 {% include feature/image.html objectid="item61" width="50" %}
 
-The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the deep cut to the Welland River collapsed.  At this point it became clear that it would not be possible to use the Welland River for water for the canal, and a plan was devised to turn the secondary canal to the Grand River into a Feeder canal for the main branch.  This led to the development of several communities along the Feeder Canal including Dunnville, Marshville (Milton), Welland (Merrittville), and Junction, near where the Feeder Canal joined the main canal.  
+The canal was to run from Lake Ontario up the Twelve Mile Creek.  From there, it would consist of two branches, one to the Welland River and another branch to the Grand River.   Construction was proceeding smoothly until November 1828, when the excavation at the Deep Cut to the Welland River collapsed.  The Deep Cut was a stretch of land between Allanburg and Port Robinson that required significant excavation in order for the canal to be created.  This section of land contained a ridge 20 metres high. 
 
 {% include feature/image.html objectid="item33" width="50" %}
 
-Despite the setback at the deep cut, construction continued and two schooners, one British and one American, passed through the new canal from Lake Ontario to Buffalo on November 30, 1829.   There was much work still to be done to complete the canal, which was not finished until 1834.  The initial canal ran south from Port Dalhousie along Twelve Mile Creek to St. Catharines and the Welland River.  An extension was built in 1833 to Gravelly Bay, now Port Colborne.  
+After the collapse at the Deep Cut, it became clear that it would not be possible to use the Welland River for water for the canal, and a plan was devised to turn the secondary canal to the Grand River into a Feeder canal for the main branch.  This led to the development of several communities along the Feeder Canal including Dunnville, Marshville (Milton), Welland (Merrittville), and Junction, near where the Feeder Canal joined the main canal.  
+
+{% include feature/image.html objectid="item14" width="50" %}
+
+Construction continued and two schooners, one British and one American, passed through the new canal from Lake Ontario to Buffalo on November 30, 1829.   There was much work still to be done to complete the canal, which was not finished until 1834.  The initial canal ran south from Port Dalhousie along Twelve Mile Creek to St. Catharines and the Welland River.  An extension was built in 1833 to Gravelly Bay, now Port Colborne.  
 
 {% include feature/image.html objectid="item20" width="50" %}
  
